@@ -298,6 +298,7 @@ Then, run `emojipacks` (`npm i -g emojipacks` if you don't have it yet): you'll 
     <a href="https://github.com/AngelRionCervi"><img src="https://avatars.githubusercontent.com/AngelRionCervi?s=40&v=4" height="40" alt="@AngelRionCervi Avatar" /></a>
     <a href="https://github.com/milen-sage"><img src="https://avatars.githubusercontent.com/milen-sage?s=40&v=4" height="40" alt="@milen-sage Avatar" /></a>
     <a href="https://github.com/makiharu"><img src="https://avatars.githubusercontent.com/makiharu?s=40&v=4" height="40" alt="@makiharu Avatar" /></a>
+    <a href="https://github.com/danieljwonder"><img src="https://avatars.githubusercontent.com/danieljwonder?s=40&v=4" height="40" alt="@danieljwonder Avatar" /></a>
 </div>
 
 ### Contributions
@@ -518,4 +519,5 @@ Then, run `emojipacks` (`npm i -g emojipacks` if you don't have it yet): you'll 
  * [@AngelRionCervi](https://github.com/AngelRionCervi) for [Svelte parrot](https://github.com/jmhobbs/cultofthepartyparrot.com/issues/675)
  * [@milen-sage](https://github.com/milen-sage) for [Giftparrot](https://github.com/jmhobbs/cultofthepartyparrot.com/issues/680)
  * [@makiharu](https://github.com/makiharu) for [HD Pizza Parrot](https://github.com/jmhobbs/cultofthepartyparrot.com/issues/682)
+ * [@danieljwonder](https://github.com/danieljwonder) for [Noted Parrot](https://github.com/jmhobbs/cultofthepartyparrot.com/issues/685)
 
